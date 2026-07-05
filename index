@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>我的第一个网页</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; padding-top: 100px; background-color: #f0f8ff; }
+        h1 { color: #2c3e50; }
+    </style>
+</head>
+<body>
+    <h1>你好，这是我用GitHub Pages搭的第一个网页</h1>
+    <p>以后我会慢慢把它变得更丰富。</p>
+</body>
+</html>
