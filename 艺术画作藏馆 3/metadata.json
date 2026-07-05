@@ -1,0 +1,6 @@
+{
+  "name": "艺术画作藏馆",
+  "description": "一个可以查找和浏览经典艺术绘画作品的沉浸式馆藏网站。支持按艺术流派流派和艺术家分类筛选，提供极佳的iOS 26风格微交互、私人随笔、分组收纳盒等全面收藏管理功能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
